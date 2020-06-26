@@ -8,3 +8,6 @@ added text which will prevent ff merge
 another text preventing ff merge (remote)
 
 now both texts are fixed
+
+
+MISTAKE

@@ -2,3 +2,5 @@ feature 1
 feature 2
 feature 3
 added text to make remote master ahead of local master
+
+added text which will prevent ff merge
